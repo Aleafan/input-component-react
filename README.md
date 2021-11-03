@@ -11,6 +11,7 @@
 
 ## Технологии:
 
-* React
-* CSS
+* React / React Hooks
 * JavaScript
+* CSS
+* Regular Expressions
